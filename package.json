@@ -23,7 +23,10 @@
     ],
     "bugs": "https://github.com/jovidecroock/webpack-module-nomodule-plugin/issues",
     "homepage": "https://github.com/jovidecroock/webpack-module-nomodule-plugin",
-    "repository": "https://github.com/jovidecroock/webpack-module-nomodule-plugin.git",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PADS4/webpack-module-nomodule-plugin.git"
+    },
     "engines": {
         "npm": ">=9.0.0",
         "node": ">=20.0.0"
