@@ -1,30 +1,31 @@
 {
-  "name": "webpack-module-nomodule-plugin",
-  "version": "1.1.1",
-  "license": "MIT",
-  "description": "Automates the integration of module/nomodule bundles in your html.",
-  "author": "Jovi De Croock <decroockjovi@gmail.com> (https://github.com/jovidecroock)",
-  "main": "src/index.js",
-  "scripts": {},
-  "dependencies": {
-    "fs-extra": "9.0.1"
-  },
-  "peerDependencies": {
-    "html-webpack-plugin": "^3.0.0 || ^4.0.0 || ^5.0.0",
-    "webpack": "^4.40.0 || ^5.0.0"
-  },
-  "keywords": [
-    "webpack",
-    "plugin",
-    "module",
-    "nomodule",
-    "html-webpack-plugin",
-    "module-nomodule"
-  ],
-  "bugs": "https://github.com/jovidecroock/webpack-module-nomodule-plugin/issues",
-  "homepage": "https://github.com/jovidecroock/webpack-module-nomodule-plugin",
-  "repository": "https://github.com/jovidecroock/webpack-module-nomodule-plugin.git",
-  "engines": {
-    "node": ">=6.9"
-  }
+    "name": "webpack-module-nomodule-plugin",
+    "version": "2.0.0",
+    "license": "MIT",
+    "description": "Automates the integration of module/nomodule bundles in your html.",
+    "author": "Jovi De Croock <decroockjovi@gmail.com> (https://github.com/jovidecroock)",
+    "main": "src/index.js",
+    "scripts": {},
+    "dependencies": {
+        "fs-extra": "11.2.0"
+    },
+    "peerDependencies": {
+        "html-webpack-plugin": "^3.0.0 || ^4.0.0 || ^5.0.0",
+        "webpack": "^4.40.0 || ^5.0.0"
+    },
+    "keywords": [
+        "webpack",
+        "plugin",
+        "module",
+        "nomodule",
+        "html-webpack-plugin",
+        "module-nomodule"
+    ],
+    "bugs": "https://github.com/jovidecroock/webpack-module-nomodule-plugin/issues",
+    "homepage": "https://github.com/jovidecroock/webpack-module-nomodule-plugin",
+    "repository": "https://github.com/jovidecroock/webpack-module-nomodule-plugin.git",
+    "engines": {
+        "npm": ">=9.0.0",
+        "node": ">=20.0.0"
+    }
 }
