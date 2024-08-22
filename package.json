@@ -1,5 +1,5 @@
 {
-    "name": "webpack-module-nomodule-plugin",
+    "name": "@nds/webpack-module-nomodule-plugin",
     "version": "2.0.0",
     "license": "MIT",
     "description": "Automates the integration of module/nomodule bundles in your html.",
